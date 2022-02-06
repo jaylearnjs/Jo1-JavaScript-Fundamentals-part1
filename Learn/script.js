@@ -47,5 +47,17 @@ console.log(typeof year);
 console.log(typeof null);
 */
 
+/*
+//Let Const and Var
+let age = 45;
+age = 47;
 
- 
+const birthYear = 1991;
+// birthYear = 1990;
+
+var job = "programmer";
+job = 'developer';
+
+lastName = "Patel";
+console.log(lastName);
+*/
