@@ -1,3 +1,5 @@
+/*
+//Values and Variables
 let js = "Amazing";
 console.log(40 + 50 + 9 - 3);
 
@@ -20,6 +22,30 @@ let myFirstJob = "Learner";
 let myCurrentJob = "Developer";
 
 console.log(myCurrentJob);
+*/
+
+/*
+//Data Types
+let javscriptIsFun = true;
+console.log(javscriptIsFun);
+
+console.log(typeof true);
+console.log(typeof javscriptIsFun);
+console.log(typeof 23);
+console.log(typeof "jay");
+
+javscriptIsFun = "yes!";
+console.log(typeof javscriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(typeof year);
+
+console.log(typeof null);
+*/
 
 
  
